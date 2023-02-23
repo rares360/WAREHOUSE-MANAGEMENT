@@ -1,0 +1,2 @@
+ORDER NO. 0
+Order: clientId=1, clientName='Rares', clientAddress='str.Rapsodiei', clientEmail='rares@yahoo.com', productId=1, productName='Suc', productQuantity=2, productPrice=5.0;
